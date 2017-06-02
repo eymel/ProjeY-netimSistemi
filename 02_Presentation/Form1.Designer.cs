@@ -56,7 +56,7 @@
             this.groupBox1.Controls.Add(this.btnSignIn);
             this.groupBox1.Font = new System.Drawing.Font("Tahoma", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
             this.groupBox1.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
-            this.groupBox1.Location = new System.Drawing.Point(185, 75);
+            this.groupBox1.Location = new System.Drawing.Point(182, 42);
             this.groupBox1.Name = "groupBox1";
             this.groupBox1.Size = new System.Drawing.Size(607, 288);
             this.groupBox1.TabIndex = 3;
